@@ -95,6 +95,8 @@ if(isset($_POST['email']) || isset($_POST['senha'])) {
         <p>
             <button type="submit">Entrar</button>
         </p>
+
+        <h1> teste </h1>
     </form>
 </body>
 </html>
